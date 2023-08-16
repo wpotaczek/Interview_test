@@ -2,8 +2,8 @@
 Hello and welcome to the recruitment repository.
 
 This task includes two exercises:
-
-1. Task_1: Optimize and clean up the code. Not all of the classes are defined, so please stub it if You need. **The code should be buildable and tested.**
+    
+1. Task_1: Optimize and clean up the code. Not all of the classes are defined, so please stub it if You need. **The code should be buildable and tested.** 
 
 2. Task_2: Short exercise in Python:
 
